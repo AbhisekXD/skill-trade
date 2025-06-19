@@ -1,22 +1,8 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "Skill trading platform",
-    "description": "Backend APIs Skill trading platform",
-    "contact": {
-      "name": "Abhisek Nayak",
-      "url": "#",
-      "email": "abhiseknayak84@gmail.com"
-    },
-    "license": {
-      "name": "License",
-      "url": "/"
-    },
-    "version": "v1.0.0"
-  },
-  "externalDocs": {
-    "description": "Skill trade platform for all",
-    "url": "http://localhost:7428/swagger-ui/index.html"
+    "title": "OpenAPI definition",
+    "version": "v0"
   },
   "servers": [
     {
